@@ -16,12 +16,12 @@ My core strength is backend architecture — especially Django systems operating
 
 ---
 
-## 🏗 Django & Backend Architecture
+## 🏗 Backend Architecture
 
-Django is my primary expertise and architectural foundation.
+Backend is my primary expertise and architectural foundation.
 
 - Advanced Django applications
-- Django REST Framework
+- Django REST Framework (favorite, but I know many others)
 - Complex domain modeling
 - Multi-service architecture
 - High-throughput APIs (10k+ req/min systems)
